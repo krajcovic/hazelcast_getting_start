@@ -10,7 +10,7 @@ import com.hazelcast.core.IMap;
  * Hello world!
  *
  */
-public class App 
+public class GettingStartedServer 
 {
     public static void main( String[] args )
     {
